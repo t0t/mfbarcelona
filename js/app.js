@@ -1,6 +1,7 @@
-// import "component";
+// @codekit-prepend "component.js";
+// @codekit-prepend "templates.js";
 
-let q = 99;
-const ww = 12;
-console.log(q);
-console.log(ww);
+let q = 888;
+const ww = 109;
+window.console.log(q);
+window.console.log(ww);

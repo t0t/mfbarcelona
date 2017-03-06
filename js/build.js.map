@@ -1,1 +1,0 @@
-{"version":3,"sources":["app.js"],"names":[],"mappings":";;AAAA;;AACA,IAAI,IAAI,EAAR;;AAEA,QAAQ,GAAR,CAAY,GAAZ","file":"build.js","sourcesContent":["import './component.js';\nlet q = 99;\n\nconsole.log(\"q\");\n"]}
