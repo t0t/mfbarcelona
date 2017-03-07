@@ -18,14 +18,10 @@
   align-items: center;
   justify-content: center;
 
-  &:first-child {
-    img {
-      margin-left: 100px;
-    }
-  }
-  &:nth-child(2) {
-    img {
-      margin-right: 50px;
+  &CTA {
+    width: 350px;
+    a:first-child {
+      margin-right: 20px;
     }
   }
 }
