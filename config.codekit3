@@ -452,6 +452,12 @@
 		"oAP": "\/src\/html\/molecules\/_brand-name.html",
 		"oF": 0
 		},
+	"\/src\/html\/molecules\/_btn-pdf-download.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/src\/html\/molecules\/_btn-pdf-download.html",
+		"oF": 0
+		},
 	"\/src\/html\/organisms\/_brand.kit": {
 		"ft": 2048,
 		"oA": 1,
@@ -468,6 +474,12 @@
 		"ft": 2048,
 		"oA": 1,
 		"oAP": "\/src\/html\/organisms\/_cover.html",
+		"oF": 0
+		},
+	"\/src\/html\/organisms\/_pdf-download.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/src\/html\/organisms\/_pdf-download.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_site-credits.kit": {
