@@ -1,2 +1,2 @@
-let num = "22";
+let num = "11";
 window.console.log(num);
