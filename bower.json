@@ -34,6 +34,7 @@
   "private": true,
   "devDependencies": {
     "flickity": "^2.0.5",
-    "wow": "wow.js#^1.1.2"
+    "wow": "wow.js#^1.1.2",
+    "aos": "^2.1.1"
   }
 }

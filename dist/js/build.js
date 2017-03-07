@@ -12,6 +12,10 @@ window.console.log(templateString);
 
 "use strict";
 
-var hola = "jjj";
-
-window.console.log(hola);
+(function() {
+    AOS.init({
+        duration: 1400
+    });
+    var e = "jjj";
+    window.console.log(e);
+})();
