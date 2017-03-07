@@ -15,6 +15,14 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/assets\/images\/contacto.jpg": {
+		"ft": 16384,
+		"iS": 245275,
+		"oA": 0,
+		"oAP": "\/assets\/images\/contacto.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/assets\/images\/cover.jpg": {
 		"ft": 16384,
 		"iS": 112579,
@@ -30,6 +38,44 @@
 		"oAP": "\/assets\/images\/product.jpg",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/assets\/images\/taller.jpg": {
+		"ft": 16384,
+		"iS": 276614,
+		"oA": 0,
+		"oAP": "\/assets\/images\/taller.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/images\/taller_detail_001.jpg": {
+		"ft": 16384,
+		"iS": 48527,
+		"oA": 0,
+		"oAP": "\/assets\/images\/taller_detail_001.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/images\/taller_detail_002.jpg": {
+		"ft": 16384,
+		"iS": 41224,
+		"oA": 0,
+		"oAP": "\/assets\/images\/taller_detail_002.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/images\/taller_detail_003.jpg": {
+		"ft": 16384,
+		"iS": 42704,
+		"oA": 0,
+		"oAP": "\/assets\/images\/taller_detail_003.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/pdf\/mfbarcelona_presentacion.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/pdf\/mfbarcelona_presentacion.pdf",
+		"oF": 0
 		},
 	"\/bower.json": {
 		"ft": 524288,
@@ -386,6 +432,14 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/src\/assets\/images\/contacto.jpg": {
+		"ft": 16384,
+		"iS": 271770,
+		"oA": 0,
+		"oAP": "\/assets\/images\/contacto.jpg",
+		"oF": 2,
+		"opt": 1
+		},
 	"\/src\/assets\/images\/cover.jpg": {
 		"ft": 16384,
 		"iS": 240330,
@@ -401,6 +455,44 @@
 		"oAP": "\/assets\/images\/product.jpg",
 		"oF": 3,
 		"opt": 1
+		},
+	"\/src\/assets\/images\/taller.jpg": {
+		"ft": 16384,
+		"iS": 299922,
+		"oA": 0,
+		"oAP": "\/assets\/images\/taller.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/src\/assets\/images\/taller_detail_001.jpg": {
+		"ft": 16384,
+		"iS": 50315,
+		"oA": 0,
+		"oAP": "\/assets\/images\/taller_detail_001.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/src\/assets\/images\/taller_detail_002.jpg": {
+		"ft": 16384,
+		"iS": 43100,
+		"oA": 0,
+		"oAP": "\/assets\/images\/taller_detail_002.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/src\/assets\/images\/taller_detail_003.jpg": {
+		"ft": 16384,
+		"iS": 44513,
+		"oA": 0,
+		"oAP": "\/assets\/images\/taller_detail_003.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/src\/assets\/pdf\/mfbarcelona_presentacion.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/pdf\/mfbarcelona_presentacion.pdf",
+		"oF": 3
 		},
 	"\/src\/data\/data.json": {
 		"ft": 524288,
@@ -452,6 +544,18 @@
 		"oAP": "\/src\/html\/molecules\/_brand-name.html",
 		"oF": 0
 		},
+	"\/src\/html\/molecules\/_brand-slogan.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/src\/html\/molecules\/_brand-slogan.html",
+		"oF": 0
+		},
+	"\/src\/html\/molecules\/_btn-contact.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/src\/html\/molecules\/_btn-contact.html",
+		"oF": 0
+		},
 	"\/src\/html\/molecules\/_btn-pdf-download.kit": {
 		"ft": 2048,
 		"oA": 1,
@@ -464,22 +568,52 @@
 		"oAP": "\/src\/html\/organisms\/_brand.html",
 		"oF": 0
 		},
-	"\/src\/html\/organisms\/_contact.kit": {
+	"\/src\/html\/organisms\/_nav-contact.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/src\/html\/organisms\/_contact.html",
+		"oAP": "\/src\/html\/organisms\/_nav-contact.html",
 		"oF": 0
 		},
-	"\/src\/html\/organisms\/_cover.kit": {
+	"\/src\/html\/organisms\/_product-001.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/src\/html\/organisms\/_cover.html",
+		"oAP": "\/src\/html\/organisms\/_product-001.html",
 		"oF": 0
 		},
-	"\/src\/html\/organisms\/_pdf-download.kit": {
+	"\/src\/html\/organisms\/_product-002.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/src\/html\/organisms\/_pdf-download.html",
+		"oAP": "\/src\/html\/organisms\/_product-002.html",
+		"oF": 0
+		},
+	"\/src\/html\/organisms\/_product-003.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/src\/html\/organisms\/_product-003.html",
+		"oF": 0
+		},
+	"\/src\/html\/organisms\/_product-004.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/src\/html\/organisms\/_product-004.html",
+		"oF": 0
+		},
+	"\/src\/html\/organisms\/_product-005.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/src\/html\/organisms\/_product-005.html",
+		"oF": 0
+		},
+	"\/src\/html\/organisms\/_product-006.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/src\/html\/organisms\/_product-006.html",
+		"oF": 0
+		},
+	"\/src\/html\/organisms\/_product-007.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/src\/html\/organisms\/_product-007.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_site-credits.kit": {
@@ -488,22 +622,10 @@
 		"oAP": "\/src\/html\/organisms\/_site-credits.html",
 		"oF": 0
 		},
-	"\/src\/html\/organisms\/_site-footer.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/src\/html\/organisms\/_site-footer.html",
-		"oF": 0
-		},
 	"\/src\/html\/organisms\/_site-head.kit": {
 		"ft": 2048,
 		"oA": 1,
 		"oAP": "\/src\/html\/organisms\/_site-head.html",
-		"oF": 0
-		},
-	"\/src\/html\/organisms\/_site-header.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/src\/html\/organisms\/_site-header.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_site-main.kit": {
@@ -518,58 +640,52 @@
 		"oAP": "\/src\/html\/organisms\/_site-nav.html",
 		"oF": 0
 		},
-	"\/src\/html\/organisms\/_taller.kit": {
+	"\/src\/html\/organisms\/_taller-detail-001.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/src\/html\/organisms\/_taller.html",
+		"oAP": "\/src\/html\/organisms\/_taller-detail-001.html",
 		"oF": 0
 		},
-	"\/src\/html\/population\/_product-001.kit": {
+	"\/src\/html\/organisms\/_taller-detail-002.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/src\/html\/population\/_product-001.html",
+		"oAP": "\/src\/html\/organisms\/_taller-detail-002.html",
 		"oF": 0
 		},
-	"\/src\/html\/population\/_product-002.kit": {
+	"\/src\/html\/organisms\/_taller-detail-003.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/src\/html\/population\/_product-002.html",
+		"oAP": "\/src\/html\/organisms\/_taller-detail-003.html",
 		"oF": 0
 		},
-	"\/src\/html\/population\/_product-003.kit": {
+	"\/src\/html\/population\/_contact.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/src\/html\/population\/_product-003.html",
-		"oF": 0
-		},
-	"\/src\/html\/population\/_product-004.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/src\/html\/population\/_product-004.html",
-		"oF": 0
-		},
-	"\/src\/html\/population\/_product-005.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/src\/html\/population\/_product-005.html",
-		"oF": 0
-		},
-	"\/src\/html\/population\/_product-006.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/src\/html\/population\/_product-006.html",
-		"oF": 0
-		},
-	"\/src\/html\/population\/_product-007.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/src\/html\/population\/_product-007.html",
+		"oAP": "\/src\/html\/population\/_contact.html",
 		"oF": 0
 		},
 	"\/src\/html\/population\/_products.kit": {
 		"ft": 2048,
 		"oA": 1,
 		"oAP": "\/src\/html\/population\/_products.html",
+		"oF": 0
+		},
+	"\/src\/html\/population\/_site-footer.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/src\/html\/population\/_site-footer.html",
+		"oF": 0
+		},
+	"\/src\/html\/population\/_site-header.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/src\/html\/population\/_site-header.html",
+		"oF": 0
+		},
+	"\/src\/html\/population\/_taller.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/src\/html\/population\/_taller.html",
 		"oF": 0
 		},
 	"\/src\/js\/app.js": {
@@ -1169,6 +1285,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/src\/scss\/Components\/_Contact.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/src\/scss\/Components\/_Contact.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/src\/scss\/Components\/_Products.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1178,6 +1307,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/src\/scss\/Components\/_Products.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/src\/scss\/Components\/_Taller.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/src\/scss\/Components\/_Taller.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
