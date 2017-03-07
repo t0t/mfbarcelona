@@ -2593,24 +2593,6 @@
 		"sC": 3,
 		"tS": 1
 		},
-	"\/js\/build.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/js\/build-min.js",
-		"oF": 1,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/js\/component.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/js\/component-min.js",
-		"oF": 1,
-		"sC": 3,
-		"tS": 0
-		},
 	"\/js\/templates.js": {
 		"ft": 64,
 		"mi": 1,
@@ -3559,7 +3541,7 @@
 			"active": 0
 			},
 		"es2015-modules-commonjs": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-modules-systemjs": {
 			"active": 0
