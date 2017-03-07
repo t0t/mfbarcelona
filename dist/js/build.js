@@ -6,6 +6,12 @@ window.console.log(num);
 
 "use strict";
 
-var hola = 888;
+var joder = "que pasa tioo7777ooo";
 
-document.console.log(hola);
+window.console.log(joder);
+
+"use strict";
+
+var hola = "kjhkjhkjhkjh";
+
+window.console.log(hola);
