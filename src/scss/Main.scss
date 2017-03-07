@@ -12,7 +12,8 @@
 
 // Utilities
 @import 'Utilities/_Animations';
-@import 'Utilities/_Brand';
+// @import 'Utilities/_Brand';
+@import 'Utilities/_Icons';
 @import 'Utilities/_Display';
 @import 'Utilities/_Layout';
 @import 'Utilities/_Spacings';
@@ -49,7 +50,11 @@
 
 // Organisms
 @import 'Organisms/SiteHeader';
+@import 'Organisms/SiteBrand';
 @import 'Organisms/SiteFooter';
+
+// Components
+@import 'Components/Products';
 
 // Templates
 @import 'Templates/_Print';

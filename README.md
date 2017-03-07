@@ -43,6 +43,7 @@ Prototypes allow us to make quick decisions about our products without having to
   - Minifying
   - Source Maps
   - Assets optimization
+- AOS - Small library to animate elements on your page as you scroll.
 
 
 by [Sergio Forés](http://sergiofores.es) - @t0tinspire

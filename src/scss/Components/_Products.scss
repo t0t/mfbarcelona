@@ -1,0 +1,15 @@
+.Products {
+  background-color: #f3f3f3;
+  width: 100%;
+
+  &:first-child {
+    img {
+      margin-left: 100px;
+    }
+  }
+  &:nth-child(2) {
+    img {
+      margin-left: 50px;
+    }
+  }
+}

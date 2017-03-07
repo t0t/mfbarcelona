@@ -15,19 +15,19 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/assets\/images\/cover.jpg": {
+		"ft": 16384,
+		"iS": 112579,
+		"oA": 0,
+		"oAP": "\/assets\/images\/cover.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/assets\/images\/product.jpg": {
 		"ft": 16384,
 		"iS": 180976,
 		"oA": 0,
 		"oAP": "\/assets\/images\/product.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/assets\/images\/product2.jpg": {
-		"ft": 16384,
-		"iS": 224627,
-		"oA": 0,
-		"oAP": "\/assets\/images\/product2.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -310,22 +310,6 @@
 		"sC": 3,
 		"tS": 1
 		},
-	"\/css\/Main-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/Main-min-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/css\/Main-min.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/css\/Main-min.css.map",
-		"oF": 0
-		},
 	"\/css\/Main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -402,20 +386,20 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/src\/assets\/images\/cover.jpg": {
+		"ft": 16384,
+		"iS": 240330,
+		"oA": 0,
+		"oAP": "\/assets\/images\/cover.jpg",
+		"oF": 3,
+		"opt": 1
+		},
 	"\/src\/assets\/images\/product.jpg": {
 		"ft": 16384,
 		"iS": 240330,
 		"oA": 0,
 		"oAP": "\/assets\/images\/product.jpg",
 		"oF": 3,
-		"opt": 1
-		},
-	"\/src\/assets\/images\/product2.jpg": {
-		"ft": 16384,
-		"iS": 240330,
-		"oA": 0,
-		"oAP": "\/src\/assets\/images\/product2.jpg",
-		"oF": 1,
 		"opt": 1
 		},
 	"\/src\/data\/data.json": {
@@ -1173,6 +1157,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/src\/scss\/Components\/_Products.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/src\/scss\/Components\/_Products.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/src\/scss\/Main.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -1180,10 +1177,10 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/css\/Main.css",
 		"oF": 3,
-		"oS": 2,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/src\/scss\/Molecules\/_ButtonGroup.scss": {
@@ -1303,6 +1300,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/src\/scss\/Organisms\/_SiteBrand.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/src\/scss\/Organisms\/_SiteBrand.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/src\/scss\/Organisms\/_SiteFooter.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1378,6 +1388,19 @@
 		"oA": 1,
 		"oAP": "\/src\/scss\/Utilities\/_Display.css",
 		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/src\/scss\/Utilities\/_Icons.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/src\/scss\/Utilities\/_Icons.css",
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
