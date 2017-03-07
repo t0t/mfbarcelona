@@ -1083,14 +1083,14 @@
 		"ft": 16384,
 		"iS": 240330,
 		"oA": 0,
-		"oAP": "\/assets\/images\/product2.jpg",
+		"oAP": "\/src\/assets\/images\/product2.jpg",
 		"oF": 1,
 		"opt": 1
 		},
 	"\/src\/data\/data.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/data\/data-min.json",
+		"oAP": "\/src\/data\/data-min.json",
 		"oF": 1,
 		"oO": 0,
 		"oS": 1
@@ -1098,25 +1098,25 @@
 	"\/src\/data\/example.yml": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/data\/example.yml",
+		"oAP": "\/src\/data\/example.yml",
 		"oF": 1
 		},
 	"\/src\/data\/text.txt": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/data\/text.txt",
+		"oAP": "\/src\/data\/text.txt",
 		"oF": 1
 		},
 	"\/src\/favicon.ico": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/favicon.ico",
+		"oAP": "\/src\/favicon.ico",
 		"oF": 0
 		},
 	"\/src\/html\/_icons.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/html\/_icons.html",
+		"oAP": "\/src\/html\/_icons.html",
 		"oF": 0
 		},
 	"\/src\/html\/index.kit": {
@@ -1128,121 +1128,121 @@
 	"\/src\/html\/molecules\/_brand-logo.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/molecules\/_brand-logo.html",
+		"oAP": "\/src\/html\/molecules\/_brand-logo.html",
 		"oF": 0
 		},
 	"\/src\/html\/molecules\/_brand-name.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/molecules\/_brand-name.html",
+		"oAP": "\/src\/html\/molecules\/_brand-name.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_brand.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/organisms\/_brand.html",
+		"oAP": "\/src\/html\/organisms\/_brand.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_contact.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/organisms\/_contact.html",
+		"oAP": "\/src\/html\/organisms\/_contact.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_cover.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/organisms\/_cover.html",
+		"oAP": "\/src\/html\/organisms\/_cover.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_site-credits.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/organisms\/_site-credits.html",
+		"oAP": "\/src\/html\/organisms\/_site-credits.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_site-footer.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/organisms\/_site-footer.html",
+		"oAP": "\/src\/html\/organisms\/_site-footer.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_site-head.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/organisms\/_site-head.html",
+		"oAP": "\/src\/html\/organisms\/_site-head.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_site-header.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/organisms\/_site-header.html",
+		"oAP": "\/src\/html\/organisms\/_site-header.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_site-main.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/organisms\/_site-main.html",
+		"oAP": "\/src\/html\/organisms\/_site-main.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_site-nav.kit": {
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/html\/organisms\/_site-nav.html",
+		"oAP": "\/src\/html\/organisms\/_site-nav.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_taller.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/organisms\/_taller.html",
+		"oAP": "\/src\/html\/organisms\/_taller.html",
 		"oF": 0
 		},
 	"\/src\/html\/population\/_product-001.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/population\/_product-001.html",
+		"oAP": "\/src\/html\/population\/_product-001.html",
 		"oF": 0
 		},
 	"\/src\/html\/population\/_product-002.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/population\/_product-002.html",
+		"oAP": "\/src\/html\/population\/_product-002.html",
 		"oF": 0
 		},
 	"\/src\/html\/population\/_product-003.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/population\/_product-003.html",
+		"oAP": "\/src\/html\/population\/_product-003.html",
 		"oF": 0
 		},
 	"\/src\/html\/population\/_product-004.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/population\/_product-004.html",
+		"oAP": "\/src\/html\/population\/_product-004.html",
 		"oF": 0
 		},
 	"\/src\/html\/population\/_product-005.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/population\/_product-005.html",
+		"oAP": "\/src\/html\/population\/_product-005.html",
 		"oF": 0
 		},
 	"\/src\/html\/population\/_product-006.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/population\/_product-006.html",
+		"oAP": "\/src\/html\/population\/_product-006.html",
 		"oF": 0
 		},
 	"\/src\/html\/population\/_product-007.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/population\/_product-007.html",
+		"oAP": "\/src\/html\/population\/_product-007.html",
 		"oF": 0
 		},
 	"\/src\/html\/population\/_products.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/html\/population\/_products.html",
+		"oAP": "\/src\/html\/population\/_products.html",
 		"oF": 0
 		},
 	"\/src\/js\/app.js": {
@@ -1258,7 +1258,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/js\/component-min.js",
+		"oAP": "\/src\/js\/component-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -1266,7 +1266,7 @@
 	"\/src\/js\/data2.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/js\/data2-min.json",
+		"oAP": "\/src\/js\/data2-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -1275,7 +1275,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/js\/templates-min.js",
+		"oAP": "\/src\/js\/templates-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -1288,8 +1288,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_Framework\/_Functions.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/_Framework\/_Functions.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1301,8 +1301,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_Framework\/_Head.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/_Framework\/_Head.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1314,8 +1314,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_Framework\/_Index.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/_Framework\/_Index.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1327,8 +1327,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_Framework\/_MediaQueries.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/_Framework\/_MediaQueries.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1340,8 +1340,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_Framework\/_Mixins.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/_Framework\/_Mixins.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1353,8 +1353,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_Framework\/_Normalize.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/_Framework\/_Normalize.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1366,8 +1366,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/_Variables.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/_Variables.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1379,8 +1379,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Atoms\/_Alert.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Atoms\/_Alert.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1392,8 +1392,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Atoms\/_Base.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Atoms\/_Base.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1405,8 +1405,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Atoms\/_Button.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Atoms\/_Button.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1418,8 +1418,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Atoms\/_Code.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Atoms\/_Code.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1431,8 +1431,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Atoms\/_Form.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Atoms\/_Form.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1444,8 +1444,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Atoms\/_Heading.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Atoms\/_Heading.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1457,8 +1457,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Atoms\/_Input.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Atoms\/_Input.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1470,8 +1470,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Atoms\/_Label.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Atoms\/_Label.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1483,8 +1483,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Atoms\/_Link.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Atoms\/_Link.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1496,8 +1496,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Atoms\/_List.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Atoms\/_List.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1509,8 +1509,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Atoms\/_Media.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Atoms\/_Media.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1522,8 +1522,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Atoms\/_Quote.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Atoms\/_Quote.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1535,8 +1535,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Atoms\/_Ruler.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Atoms\/_Ruler.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1548,8 +1548,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Atoms\/_Table.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Atoms\/_Table.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1561,8 +1561,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Atoms\/_Typography.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Atoms\/_Typography.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1573,9 +1573,9 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/css\/Main.css",
-		"oF": 2,
+		"oF": 3,
 		"oS": 2,
 		"uL": 1
 		},
@@ -1587,8 +1587,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Molecules\/_ButtonGroup.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Molecules\/_ButtonGroup.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1600,8 +1600,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Molecules\/_Flag.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Molecules\/_Flag.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1613,8 +1613,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Molecules\/_FlexibleEmbed.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Molecules\/_FlexibleEmbed.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1626,8 +1626,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Molecules\/_Form.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Molecules\/_Form.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1639,8 +1639,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Molecules\/_Grid.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Molecules\/_Grid.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1652,8 +1652,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Molecules\/_Media.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Molecules\/_Media.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1665,8 +1665,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Molecules\/_Navigation.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Molecules\/_Navigation.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1678,8 +1678,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Molecules\/_Spinner.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Molecules\/_Spinner.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1691,8 +1691,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Molecules\/_Table.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Molecules\/_Table.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1704,8 +1704,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Organisms\/_SiteFooter.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Organisms\/_SiteFooter.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1717,8 +1717,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Organisms\/_SiteHeader.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Organisms\/_SiteHeader.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1730,8 +1730,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Templates\/_Print.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Templates\/_Print.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1743,8 +1743,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Utilities\/_Animations.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Utilities\/_Animations.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1756,8 +1756,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Utilities\/_Brand.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Utilities\/_Brand.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1769,8 +1769,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Utilities\/_Display.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Utilities\/_Display.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1782,8 +1782,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Utilities\/_Layout.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Utilities\/_Layout.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1795,8 +1795,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Utilities\/_Spacings.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Utilities\/_Spacings.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1808,8 +1808,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Utilities\/_Typography.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Utilities\/_Typography.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1821,8 +1821,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/Utilities\/_Widths.css",
-		"oF": 0,
+		"oAP": "\/src\/scss\/Utilities\/_Widths.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		}
@@ -1919,7 +1919,7 @@
 			"active": 0
 			},
 		"es2015-modules-commonjs": {
-			"active": 1
+			"active": 0
 			},
 		"es2015-modules-systemjs": {
 			"active": 0
@@ -1943,13 +1943,13 @@
 			"active": 0
 			},
 		"es2015-template-literals": {
-			"active": 1
+			"active": 0
 			},
 		"es2015-typeof-symbol": {
 			"active": 0
 			},
 		"es2015-unicode-regex": {
-			"active": 1
+			"active": 0
 			},
 		"es3-member-expression-literals": {
 			"active": 0
@@ -2096,11 +2096,11 @@
 	"bowerAutoCreateInfoFile": 1,
 	"bowerInstallDevDependencies": 0,
 	"bowerSaveDependencies": 1,
-	"bowerSaveDevDependencies": 1,
+	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
-	"buildFolderActive": 1,
-	"buildFolderName": "\/",
+	"buildFolderActive": 0,
+	"buildFolderName": "build",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -2240,9 +2240,9 @@
 			"flagValue": -1
 			}
 		},
-	"esLintConfigFileHandlingType": 1,
+	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
-	"esLintEnvironmentsMask": 24661,
+	"esLintEnvironmentsMask": 1,
 	"esLintRules": {
 		"accessor-pairs": {
 			"active": 0,
@@ -3189,7 +3189,7 @@
 			"optionString": "'never', {'exceptRange': false, 'onlyEquality': false}"
 			}
 		},
-	"esLintSourceType": 1,
+	"esLintSourceType": 0,
 	"externalServerAddress": "http:\/\/localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
@@ -3514,7 +3514,7 @@
 			"flagValue": -1
 			},
 		"es6": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"eval": {
@@ -3530,7 +3530,7 @@
 			"flagValue": 150
 			},
 		"node": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"this": {
@@ -3561,7 +3561,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"createSourceMap": 1,
+		"createSourceMap": 0,
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0
@@ -3606,8 +3606,8 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
-		"syntaxCheckerStyle": 3,
-		"transpilerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 0
 		},
 	"languageDefaultsJSON": {
 		"autoOutputAction": 1,
@@ -3775,7 +3775,7 @@
 		],
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
-	"sourceFolderName": "src",
+	"sourceFolderName": "source",
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
@@ -3807,7 +3807,7 @@
 			"flagValue": -1
 			},
 		"compress": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"conditionals": {
@@ -3944,7 +3944,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": "\/\/"
+	"websiteRelativeRoot": ""
 	},
 "settingsFileVersion": "3"
 }
