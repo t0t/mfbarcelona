@@ -12,7 +12,7 @@
 	"\/.gitignore": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/.gitignore",
+		"oAP": "\/.gitignore",
 		"oF": 0
 		},
 	"\/assets\/images\/product.jpg": {
@@ -34,7 +34,7 @@
 	"\/bower.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/dist\/bower-min.json",
+		"oAP": "\/bower-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -1288,7 +1288,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_Framework\/_Functions.css",
+		"oAP": "\/scss\/_Framework\/_Functions.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1301,7 +1301,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_Framework\/_Head.css",
+		"oAP": "\/scss\/_Framework\/_Head.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1314,7 +1314,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_Framework\/_Index.css",
+		"oAP": "\/scss\/_Framework\/_Index.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1327,7 +1327,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_Framework\/_MediaQueries.css",
+		"oAP": "\/scss\/_Framework\/_MediaQueries.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1340,7 +1340,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_Framework\/_Mixins.css",
+		"oAP": "\/scss\/_Framework\/_Mixins.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1353,7 +1353,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_Framework\/_Normalize.css",
+		"oAP": "\/scss\/_Framework\/_Normalize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1366,7 +1366,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_Variables.css",
+		"oAP": "\/scss\/_Variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1379,7 +1379,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Alert.css",
+		"oAP": "\/scss\/Atoms\/_Alert.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1392,7 +1392,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Base.css",
+		"oAP": "\/scss\/Atoms\/_Base.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1405,7 +1405,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Button.css",
+		"oAP": "\/scss\/Atoms\/_Button.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1418,7 +1418,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Code.css",
+		"oAP": "\/scss\/Atoms\/_Code.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1431,7 +1431,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Form.css",
+		"oAP": "\/scss\/Atoms\/_Form.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1444,7 +1444,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Heading.css",
+		"oAP": "\/scss\/Atoms\/_Heading.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1457,7 +1457,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Input.css",
+		"oAP": "\/scss\/Atoms\/_Input.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1470,7 +1470,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Label.css",
+		"oAP": "\/scss\/Atoms\/_Label.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1483,7 +1483,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Link.css",
+		"oAP": "\/scss\/Atoms\/_Link.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1496,7 +1496,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_List.css",
+		"oAP": "\/scss\/Atoms\/_List.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1509,7 +1509,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Media.css",
+		"oAP": "\/scss\/Atoms\/_Media.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1522,7 +1522,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Quote.css",
+		"oAP": "\/scss\/Atoms\/_Quote.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1535,7 +1535,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Ruler.css",
+		"oAP": "\/scss\/Atoms\/_Ruler.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1548,7 +1548,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Table.css",
+		"oAP": "\/scss\/Atoms\/_Table.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1561,7 +1561,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Typography.css",
+		"oAP": "\/scss\/Atoms\/_Typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1587,7 +1587,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_ButtonGroup.css",
+		"oAP": "\/scss\/Molecules\/_ButtonGroup.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1600,7 +1600,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_Flag.css",
+		"oAP": "\/scss\/Molecules\/_Flag.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1613,7 +1613,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_FlexibleEmbed.css",
+		"oAP": "\/scss\/Molecules\/_FlexibleEmbed.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1626,7 +1626,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_Form.css",
+		"oAP": "\/scss\/Molecules\/_Form.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1639,7 +1639,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_Grid.css",
+		"oAP": "\/scss\/Molecules\/_Grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1652,7 +1652,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_Media.css",
+		"oAP": "\/scss\/Molecules\/_Media.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1665,7 +1665,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_Navigation.css",
+		"oAP": "\/scss\/Molecules\/_Navigation.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1678,7 +1678,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_Spinner.css",
+		"oAP": "\/scss\/Molecules\/_Spinner.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1691,7 +1691,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_Table.css",
+		"oAP": "\/scss\/Molecules\/_Table.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1704,7 +1704,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Organisms\/_SiteFooter.css",
+		"oAP": "\/scss\/Organisms\/_SiteFooter.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1717,7 +1717,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Organisms\/_SiteHeader.css",
+		"oAP": "\/scss\/Organisms\/_SiteHeader.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1730,7 +1730,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Templates\/_Print.css",
+		"oAP": "\/scss\/Templates\/_Print.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1743,7 +1743,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Utilities\/_Animations.css",
+		"oAP": "\/scss\/Utilities\/_Animations.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1756,7 +1756,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Utilities\/_Brand.css",
+		"oAP": "\/scss\/Utilities\/_Brand.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1769,7 +1769,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Utilities\/_Display.css",
+		"oAP": "\/scss\/Utilities\/_Display.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1782,7 +1782,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Utilities\/_Layout.css",
+		"oAP": "\/scss\/Utilities\/_Layout.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1795,7 +1795,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Utilities\/_Spacings.css",
+		"oAP": "\/scss\/Utilities\/_Spacings.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1808,7 +1808,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Utilities\/_Typography.css",
+		"oAP": "\/scss\/Utilities\/_Typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1821,286 +1821,10 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Utilities\/_Widths.css",
+		"oAP": "\/scss\/Utilities\/_Widths.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
-		},
-	"\/src\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_ButtonGroup.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_ButtonGroup.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_Flag.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_Flag.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_FlexibleEmbed.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_FlexibleEmbed.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_Form.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_Form.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_Grid.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_Grid.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_Media.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_Media.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_Navigation.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_Navigation.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_Spinner.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_Spinner.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_Table.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_Table.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Alert.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Alert.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Base.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Base.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Button.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Button.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Code.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Code.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Form.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Form.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Heading.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Heading.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Input.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Input.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Label.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Label.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Link.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Link.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_List.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_List.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Media.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Media.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Quote.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Quote.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Ruler.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Ruler.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Table.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Table.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Typography.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Typography.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/8307e1b1706f8ec91272d1d62a4b52ac532a6090\/_Functions.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/8307e1b1706f8ec91272d1d62a4b52ac532a6090\/_Functions.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/8307e1b1706f8ec91272d1d62a4b52ac532a6090\/_Head.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/8307e1b1706f8ec91272d1d62a4b52ac532a6090\/_Head.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/8307e1b1706f8ec91272d1d62a4b52ac532a6090\/_Index.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/8307e1b1706f8ec91272d1d62a4b52ac532a6090\/_Index.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/8307e1b1706f8ec91272d1d62a4b52ac532a6090\/_MediaQueries.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/8307e1b1706f8ec91272d1d62a4b52ac532a6090\/_MediaQueries.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/8307e1b1706f8ec91272d1d62a4b52ac532a6090\/_Mixins.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/8307e1b1706f8ec91272d1d62a4b52ac532a6090\/_Mixins.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/8307e1b1706f8ec91272d1d62a4b52ac532a6090\/_Normalize.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/8307e1b1706f8ec91272d1d62a4b52ac532a6090\/_Normalize.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/b401cd54263ebbe279dd007edc02e4fe219014f0\/_Print.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/b401cd54263ebbe279dd007edc02e4fe219014f0\/_Print.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/ce8ee360b63b690ad0531bdd23b339ce7c7cd4ab\/_base.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/ce8ee360b63b690ad0531bdd23b339ce7c7cd4ab\/_base.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/ce8ee360b63b690ad0531bdd23b339ce7c7cd4ab\/_settings.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/ce8ee360b63b690ad0531bdd23b339ce7c7cd4ab\/_settings.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/ce8ee360b63b690ad0531bdd23b339ce7c7cd4ab\/_typography.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/ce8ee360b63b690ad0531bdd23b339ce7c7cd4ab\/_typography.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/ce8ee360b63b690ad0531bdd23b339ce7c7cd4ab\/_Variables.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/ce8ee360b63b690ad0531bdd23b339ce7c7cd4ab\/_Variables.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/ce8ee360b63b690ad0531bdd23b339ce7c7cd4ab\/app.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/ce8ee360b63b690ad0531bdd23b339ce7c7cd4ab\/app.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/ce8ee360b63b690ad0531bdd23b339ce7c7cd4ab\/Main.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/ce8ee360b63b690ad0531bdd23b339ce7c7cd4ab\/Main.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/d88c5235e9370b690a8775014661a536e6659980\/_Animations.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/d88c5235e9370b690a8775014661a536e6659980\/_Animations.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/d88c5235e9370b690a8775014661a536e6659980\/_Brand.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/d88c5235e9370b690a8775014661a536e6659980\/_Brand.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/d88c5235e9370b690a8775014661a536e6659980\/_Display.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/d88c5235e9370b690a8775014661a536e6659980\/_Display.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/d88c5235e9370b690a8775014661a536e6659980\/_Layout.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/d88c5235e9370b690a8775014661a536e6659980\/_Layout.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/d88c5235e9370b690a8775014661a536e6659980\/_Spacings.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/d88c5235e9370b690a8775014661a536e6659980\/_Spacings.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/d88c5235e9370b690a8775014661a536e6659980\/_Typography.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/d88c5235e9370b690a8775014661a536e6659980\/_Typography.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/d88c5235e9370b690a8775014661a536e6659980\/_Widths.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/d88c5235e9370b690a8775014661a536e6659980\/_Widths.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/fbaddc1bf91d744bfca493a9c6330f5818026782\/_SiteFooter.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/fbaddc1bf91d744bfca493a9c6330f5818026782\/_SiteFooter.scssc",
-		"oF": 1
-		},
-	"\/src\/scss\/.sass-cache\/fbaddc1bf91d744bfca493a9c6330f5818026782\/_SiteHeader.scssc": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dist\/scss\/.sass-cache\/fbaddc1bf91d744bfca493a9c6330f5818026782\/_SiteHeader.scssc",
-		"oF": 1
 		}
 	},
 "hooks": [
@@ -2189,7 +1913,7 @@
 			"active": 0
 			},
 		"es2015-literals": {
-			"active": 1
+			"active": 0
 			},
 		"es2015-modules-amd": {
 			"active": 0
