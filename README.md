@@ -30,13 +30,19 @@ Prototypes allow us to make quick decisions about our products without having to
 ### Includes & embraces
 - Formpree
 - SVG xlink
-- Sass methodologies
+- Namin conventions & methodologies
   - OOCSS
   - BEM
   - Atomic Design-Approach
 - Html Templating `*.kit`
-- Codekit 3
 - Google Fonts
+- Codekit 3 Build process
+  - The "Partial" Convention
+  - Syntax-checking
+  - Transpiling
+  - Minifying
+  - Source Maps
+  - Assets optimization
 
 
 by [Sergio Forés](http://sergiofores.es) - @t0tinspire
