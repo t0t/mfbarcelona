@@ -12,13 +12,29 @@
 	"\/.gitignore": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/.gitignore",
+		"oAP": "\/.gitignore",
 		"oF": 0
+		},
+	"\/assets\/images\/product.jpg": {
+		"ft": 16384,
+		"iS": 180976,
+		"oA": 0,
+		"oAP": "\/assets\/images\/product.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/images\/product2.jpg": {
+		"ft": 16384,
+		"iS": 224627,
+		"oA": 0,
+		"oAP": "\/assets\/images\/product2.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/bower.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/dist\/bower-min.json",
+		"oAP": "\/bower-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -26,7 +42,7 @@
 	"\/bower_components\/aos\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/aos\/.bower.json",
+		"oAP": "\/bower_components\/aos\/.bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -34,7 +50,7 @@
 	"\/bower_components\/aos\/bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/aos\/bower.json",
+		"oAP": "\/bower_components\/aos\/bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -48,7 +64,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/aos\/CHANGELOG.md",
+		"oAP": "\/bower_components\/aos\/CHANGELOG.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -66,7 +82,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/aos\/CONTRIBUTING.md",
+		"oAP": "\/bower_components\/aos\/CONTRIBUTING.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -78,7 +94,7 @@
 	"\/bower_components\/aos\/demo\/async.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/aos\/demo\/async.html",
+		"oAP": "\/bower_components\/aos\/demo\/async.html",
 		"oF": 0
 		},
 	"\/bower_components\/aos\/demo\/css\/styles.css": {
@@ -87,14 +103,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/aos\/demo\/css\/styles.css",
+		"oAP": "\/bower_components\/aos\/demo\/css\/styles.css",
 		"oF": 0,
 		"oS": 0
 		},
 	"\/bower_components\/aos\/demo\/simple.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/aos\/demo\/simple.html",
+		"oAP": "\/bower_components\/aos\/demo\/simple.html",
 		"oF": 0
 		},
 	"\/bower_components\/aos\/dist\/aos.css": {
@@ -103,21 +119,21 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/aos\/dist\/aos.css",
+		"oAP": "\/bower_components\/aos\/dist\/aos.css",
 		"oF": 0,
 		"oS": 0
 		},
 	"\/bower_components\/aos\/dist\/aos.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/aos\/dist\/aos.css.map",
+		"oAP": "\/bower_components\/aos\/dist\/aos.css.map",
 		"oF": 0
 		},
 	"\/bower_components\/aos\/dist\/aos.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/aos\/dist\/aos.js",
+		"oAP": "\/bower_components\/aos\/dist\/aos.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -125,14 +141,14 @@
 	"\/bower_components\/aos\/dist\/aos.js.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/aos\/dist\/aos.js.map",
+		"oAP": "\/bower_components\/aos\/dist\/aos.js.map",
 		"oF": 0
 		},
 	"\/bower_components\/aos\/karma.conf.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/aos\/karma.conf.js",
+		"oAP": "\/bower_components\/aos\/karma.conf.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -140,7 +156,7 @@
 	"\/bower_components\/aos\/LICENSE": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/aos\/LICENSE",
+		"oAP": "\/bower_components\/aos\/LICENSE",
 		"oF": 0
 		},
 	"\/bower_components\/aos\/README.md": {
@@ -152,7 +168,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/aos\/README.md",
+		"oAP": "\/bower_components\/aos\/README.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -165,7 +181,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/aos\/src\/js\/aos.js",
+		"oAP": "\/bower_components\/aos\/src\/js\/aos.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -174,7 +190,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/bower_components\/aos\/src\/js\/helpers\/calculateOffset.js",
+		"oAP": "\/bower_components\/aos\/src\/js\/helpers\/calculateOffset.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -183,7 +199,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/bower_components\/aos\/src\/js\/helpers\/detector.js",
+		"oAP": "\/bower_components\/aos\/src\/js\/helpers\/detector.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -192,7 +208,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/bower_components\/aos\/src\/js\/helpers\/elements.js",
+		"oAP": "\/bower_components\/aos\/src\/js\/helpers\/elements.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -201,7 +217,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/bower_components\/aos\/src\/js\/helpers\/handleScroll.js",
+		"oAP": "\/bower_components\/aos\/src\/js\/helpers\/handleScroll.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -210,7 +226,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/bower_components\/aos\/src\/js\/helpers\/prepare.js",
+		"oAP": "\/bower_components\/aos\/src\/js\/helpers\/prepare.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -219,7 +235,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/bower_components\/aos\/src\/js\/libs\/observer.js",
+		"oAP": "\/bower_components\/aos\/src\/js\/libs\/observer.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -228,7 +244,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/bower_components\/aos\/src\/js\/libs\/offset.js",
+		"oAP": "\/bower_components\/aos\/src\/js\/libs\/offset.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -241,7 +257,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/bower_components\/aos\/src\/sass\/_animations.scss",
+		"oAP": "\/bower_components\/aos\/src\/sass\/_animations.scss",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -254,7 +270,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/bower_components\/aos\/src\/sass\/_core.scss",
+		"oAP": "\/bower_components\/aos\/src\/sass\/_core.scss",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -267,7 +283,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/bower_components\/aos\/src\/sass\/_easing.scss",
+		"oAP": "\/bower_components\/aos\/src\/sass\/_easing.scss",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -280,7 +296,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/aos\/src\/sass\/aos.scss",
+		"oAP": "\/bower_components\/aos\/src\/sass\/aos.scss",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -289,7 +305,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/aos\/webpack.config.js",
+		"oAP": "\/bower_components\/aos\/webpack.config.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -297,7 +313,7 @@
 	"\/bower_components\/desandro-matches-selector\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/desandro-matches-selector\/.bower.json",
+		"oAP": "\/bower_components\/desandro-matches-selector\/.bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -305,7 +321,7 @@
 	"\/bower_components\/desandro-matches-selector\/bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/desandro-matches-selector\/bower.json",
+		"oAP": "\/bower_components\/desandro-matches-selector\/bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -314,7 +330,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/desandro-matches-selector\/matches-selector.js",
+		"oAP": "\/bower_components\/desandro-matches-selector\/matches-selector.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -328,7 +344,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/desandro-matches-selector\/README.md",
+		"oAP": "\/bower_components\/desandro-matches-selector\/README.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -340,7 +356,7 @@
 	"\/bower_components\/ev-emitter\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/ev-emitter\/.bower.json",
+		"oAP": "\/bower_components\/ev-emitter\/.bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -348,7 +364,7 @@
 	"\/bower_components\/ev-emitter\/bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/ev-emitter\/bower.json",
+		"oAP": "\/bower_components\/ev-emitter\/bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -357,7 +373,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/ev-emitter\/ev-emitter.js",
+		"oAP": "\/bower_components\/ev-emitter\/ev-emitter.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -365,7 +381,7 @@
 	"\/bower_components\/ev-emitter\/package.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/ev-emitter\/package.json",
+		"oAP": "\/bower_components\/ev-emitter\/package.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -379,7 +395,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/ev-emitter\/README.md",
+		"oAP": "\/bower_components\/ev-emitter\/README.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -391,7 +407,7 @@
 	"\/bower_components\/fizzy-ui-utils\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/fizzy-ui-utils\/.bower.json",
+		"oAP": "\/bower_components\/fizzy-ui-utils\/.bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -399,7 +415,7 @@
 	"\/bower_components\/fizzy-ui-utils\/bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/fizzy-ui-utils\/bower.json",
+		"oAP": "\/bower_components\/fizzy-ui-utils\/bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -413,7 +429,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/fizzy-ui-utils\/README.md",
+		"oAP": "\/bower_components\/fizzy-ui-utils\/README.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -426,7 +442,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/fizzy-ui-utils\/utils.js",
+		"oAP": "\/bower_components\/fizzy-ui-utils\/utils.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -434,7 +450,7 @@
 	"\/bower_components\/flickity\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/.bower.json",
+		"oAP": "\/bower_components\/flickity\/.bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -442,7 +458,7 @@
 	"\/bower_components\/flickity\/bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/bower.json",
+		"oAP": "\/bower_components\/flickity\/bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -453,7 +469,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/css\/flickity.css",
+		"oAP": "\/bower_components\/flickity\/css\/flickity.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -463,7 +479,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/dist\/flickity.css",
+		"oAP": "\/bower_components\/flickity\/dist\/flickity.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -473,7 +489,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/dist\/flickity.min.css",
+		"oAP": "\/bower_components\/flickity\/dist\/flickity.min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -481,7 +497,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/dist\/flickity.pkgd.js",
+		"oAP": "\/bower_components\/flickity\/dist\/flickity.pkgd.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -490,7 +506,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/dist\/flickity.pkgd.min.js",
+		"oAP": "\/bower_components\/flickity\/dist\/flickity.pkgd.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -499,7 +515,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/js\/add-remove-cell.js",
+		"oAP": "\/bower_components\/flickity\/js\/add-remove-cell.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -508,7 +524,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/js\/animate.js",
+		"oAP": "\/bower_components\/flickity\/js\/animate.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -517,7 +533,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/js\/cell.js",
+		"oAP": "\/bower_components\/flickity\/js\/cell.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -526,7 +542,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/js\/drag.js",
+		"oAP": "\/bower_components\/flickity\/js\/drag.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -535,7 +551,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/js\/flickity.js",
+		"oAP": "\/bower_components\/flickity\/js\/flickity.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -544,7 +560,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/js\/index.js",
+		"oAP": "\/bower_components\/flickity\/js\/index.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -553,7 +569,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/js\/lazyload.js",
+		"oAP": "\/bower_components\/flickity\/js\/lazyload.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -562,7 +578,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/js\/page-dots.js",
+		"oAP": "\/bower_components\/flickity\/js\/page-dots.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -571,7 +587,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/js\/player.js",
+		"oAP": "\/bower_components\/flickity\/js\/player.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -580,7 +596,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/js\/prev-next-button.js",
+		"oAP": "\/bower_components\/flickity\/js\/prev-next-button.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -589,7 +605,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/js\/slide.js",
+		"oAP": "\/bower_components\/flickity\/js\/slide.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -603,7 +619,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/flickity\/README.md",
+		"oAP": "\/bower_components\/flickity\/README.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -615,7 +631,7 @@
 	"\/bower_components\/get-size\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/get-size\/.bower.json",
+		"oAP": "\/bower_components\/get-size\/.bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -623,7 +639,7 @@
 	"\/bower_components\/get-size\/bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/get-size\/bower.json",
+		"oAP": "\/bower_components\/get-size\/bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -632,7 +648,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/get-size\/get-size.js",
+		"oAP": "\/bower_components\/get-size\/get-size.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -646,7 +662,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/get-size\/README.md",
+		"oAP": "\/bower_components\/get-size\/README.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -658,7 +674,7 @@
 	"\/bower_components\/tap-listener\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/tap-listener\/.bower.json",
+		"oAP": "\/bower_components\/tap-listener\/.bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -666,7 +682,7 @@
 	"\/bower_components\/tap-listener\/bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/tap-listener\/bower.json",
+		"oAP": "\/bower_components\/tap-listener\/bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -680,7 +696,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/tap-listener\/README.md",
+		"oAP": "\/bower_components\/tap-listener\/README.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -693,7 +709,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/tap-listener\/tap-listener.js",
+		"oAP": "\/bower_components\/tap-listener\/tap-listener.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -701,7 +717,7 @@
 	"\/bower_components\/unidragger\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/unidragger\/.bower.json",
+		"oAP": "\/bower_components\/unidragger\/.bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -709,7 +725,7 @@
 	"\/bower_components\/unidragger\/bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/unidragger\/bower.json",
+		"oAP": "\/bower_components\/unidragger\/bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -723,7 +739,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/unidragger\/README.md",
+		"oAP": "\/bower_components\/unidragger\/README.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -736,7 +752,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/unidragger\/unidragger.js",
+		"oAP": "\/bower_components\/unidragger\/unidragger.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -744,7 +760,7 @@
 	"\/bower_components\/unipointer\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/unipointer\/.bower.json",
+		"oAP": "\/bower_components\/unipointer\/.bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -752,7 +768,7 @@
 	"\/bower_components\/unipointer\/bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/unipointer\/bower.json",
+		"oAP": "\/bower_components\/unipointer\/bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -766,7 +782,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/unipointer\/README.md",
+		"oAP": "\/bower_components\/unipointer\/README.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -779,7 +795,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/unipointer\/unipointer.js",
+		"oAP": "\/bower_components\/unipointer\/unipointer.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -787,7 +803,7 @@
 	"\/bower_components\/wow\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/.bower.json",
+		"oAP": "\/bower_components\/wow\/.bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -795,7 +811,7 @@
 	"\/bower_components\/wow\/bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/bower.json",
+		"oAP": "\/bower_components\/wow\/bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -806,7 +822,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/css\/libs\/animate.css",
+		"oAP": "\/bower_components\/wow\/css\/libs\/animate.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -816,21 +832,21 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/css\/site.css",
+		"oAP": "\/bower_components\/wow\/css\/site.css",
 		"oF": 0,
 		"oS": 0
 		},
 	"\/bower_components\/wow\/demo.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/demo.html",
+		"oAP": "\/bower_components\/wow\/demo.html",
 		"oF": 0
 		},
 	"\/bower_components\/wow\/dist\/wow.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/dist\/wow.js",
+		"oAP": "\/bower_components\/wow\/dist\/wow.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -839,7 +855,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/dist\/wow.min.js",
+		"oAP": "\/bower_components\/wow\/dist\/wow.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -848,7 +864,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/Gruntfile.js",
+		"oAP": "\/bower_components\/wow\/Gruntfile.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -856,13 +872,13 @@
 	"\/bower_components\/wow\/LICENSE-MIT": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/LICENSE-MIT",
+		"oAP": "\/bower_components\/wow\/LICENSE-MIT",
 		"oF": 0
 		},
 	"\/bower_components\/wow\/package.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/package.json",
+		"oAP": "\/bower_components\/wow\/package.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -876,7 +892,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/README.md",
+		"oAP": "\/bower_components\/wow\/README.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -890,7 +906,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/spec\/coffeescripts\/helpers\/SpecHelper.coffee",
+		"oAP": "\/bower_components\/wow\/spec\/coffeescripts\/helpers\/SpecHelper.coffee",
 		"oF": 0,
 		"oS": 0,
 		"sC": 1
@@ -900,7 +916,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/spec\/coffeescripts\/wow-spec.coffee",
+		"oAP": "\/bower_components\/wow\/spec\/coffeescripts\/wow-spec.coffee",
 		"oF": 0,
 		"oS": 0,
 		"sC": 1
@@ -908,20 +924,20 @@
 	"\/bower_components\/wow\/spec\/javascripts\/fixtures\/custom.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/spec\/javascripts\/fixtures\/custom.html",
+		"oAP": "\/bower_components\/wow\/spec\/javascripts\/fixtures\/custom.html",
 		"oF": 0
 		},
 	"\/bower_components\/wow\/spec\/javascripts\/fixtures\/simple.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/spec\/javascripts\/fixtures\/simple.html",
+		"oAP": "\/bower_components\/wow\/spec\/javascripts\/fixtures\/simple.html",
 		"oF": 0
 		},
 	"\/bower_components\/wow\/spec\/javascripts\/helpers\/SpecHelper.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/spec\/javascripts\/helpers\/SpecHelper.js",
+		"oAP": "\/bower_components\/wow\/spec\/javascripts\/helpers\/SpecHelper.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -930,7 +946,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/spec\/javascripts\/libs\/jasmine-jquery.js",
+		"oAP": "\/bower_components\/wow\/spec\/javascripts\/libs\/jasmine-jquery.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -939,7 +955,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/spec\/javascripts\/libs\/jquery.js",
+		"oAP": "\/bower_components\/wow\/spec\/javascripts\/libs\/jquery.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -948,7 +964,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/spec\/javascripts\/wow-spec.js",
+		"oAP": "\/bower_components\/wow\/spec\/javascripts\/wow-spec.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -958,21 +974,83 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/dist\/bower_components\/wow\/src\/wow.coffee",
+		"oAP": "\/bower_components\/wow\/src\/wow.coffee",
 		"oF": 0,
 		"oS": 0,
 		"sC": 1
 		},
-	"\/dist": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/dist\/dist",
+	"\/css\/Main-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/Main-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/Main-min.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/css\/Main-min.css.map",
+		"oF": 0
+		},
+	"\/css\/Main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/Main-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/Main.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/css\/Main.css.map",
+		"oF": 0
+		},
+	"\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/favicon.ico",
+		"oF": 0
+		},
+	"\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/index.html",
+		"oF": 0
+		},
+	"\/js\/build-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/build-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 1
+		},
+	"\/js\/build.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/build-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 1
+		},
+	"\/js\/build.js.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/js\/build.js.map",
 		"oF": 0
 		},
 	"\/README.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/dist\/README.html",
+		"oAP": "\/README.html",
 		"oF": 0
 		},
 	"\/README.md": {
@@ -984,7 +1062,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/README.html",
+		"oAP": "\/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -997,181 +1075,181 @@
 		"ft": 16384,
 		"iS": 240330,
 		"oA": 0,
-		"oAP": "\/dist\/assets\/images\/product.jpg",
-		"oF": 1,
+		"oAP": "\/assets\/images\/product.jpg",
+		"oF": 3,
 		"opt": 1
 		},
 	"\/src\/assets\/images\/product2.jpg": {
 		"ft": 16384,
 		"iS": 240330,
 		"oA": 0,
-		"oAP": "\/dist\/assets\/images\/product2.jpg",
+		"oAP": "\/assets\/images\/product2.jpg",
 		"oF": 1,
 		"opt": 1
 		},
 	"\/src\/data\/data.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/dist\/data\/data-min.json",
-		"oF": 0,
+		"oAP": "\/data\/data-min.json",
+		"oF": 1,
 		"oO": 0,
 		"oS": 1
 		},
 	"\/src\/data\/example.yml": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/data\/example.yml",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/data\/example.yml",
+		"oF": 1
 		},
 	"\/src\/data\/text.txt": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/data\/text.txt",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/data\/text.txt",
+		"oF": 1
 		},
 	"\/src\/favicon.ico": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/favicon.ico",
+		"oAP": "\/favicon.ico",
 		"oF": 0
 		},
 	"\/src\/html\/_icons.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/dist\/html\/_icons.html",
+		"oAP": "\/html\/_icons.html",
 		"oF": 0
 		},
 	"\/src\/html\/index.kit": {
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/dist\/index.html",
+		"oAP": "\/index.html",
 		"oF": 2
 		},
 	"\/src\/html\/molecules\/_brand-logo.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/molecules\/_brand-logo.html",
+		"oAP": "\/html\/molecules\/_brand-logo.html",
 		"oF": 0
 		},
 	"\/src\/html\/molecules\/_brand-name.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/molecules\/_brand-name.html",
+		"oAP": "\/html\/molecules\/_brand-name.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_brand.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/organisms\/_brand.html",
+		"oAP": "\/html\/organisms\/_brand.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_contact.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/organisms\/_contact.html",
+		"oAP": "\/html\/organisms\/_contact.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_cover.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/organisms\/_cover.html",
+		"oAP": "\/html\/organisms\/_cover.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_site-credits.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/organisms\/_site-credits.html",
+		"oAP": "\/html\/organisms\/_site-credits.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_site-footer.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/organisms\/_site-footer.html",
+		"oAP": "\/html\/organisms\/_site-footer.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_site-head.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/organisms\/_site-head.html",
+		"oAP": "\/html\/organisms\/_site-head.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_site-header.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/organisms\/_site-header.html",
+		"oAP": "\/html\/organisms\/_site-header.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_site-main.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/organisms\/_site-main.html",
+		"oAP": "\/html\/organisms\/_site-main.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_site-nav.kit": {
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/dist\/html\/organisms\/_site-nav.html",
+		"oAP": "\/html\/organisms\/_site-nav.html",
 		"oF": 0
 		},
 	"\/src\/html\/organisms\/_taller.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/organisms\/_taller.html",
+		"oAP": "\/html\/organisms\/_taller.html",
 		"oF": 0
 		},
 	"\/src\/html\/population\/_product-001.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/population\/_product-001.html",
+		"oAP": "\/html\/population\/_product-001.html",
 		"oF": 0
 		},
 	"\/src\/html\/population\/_product-002.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/population\/_product-002.html",
+		"oAP": "\/html\/population\/_product-002.html",
 		"oF": 0
 		},
 	"\/src\/html\/population\/_product-003.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/population\/_product-003.html",
+		"oAP": "\/html\/population\/_product-003.html",
 		"oF": 0
 		},
 	"\/src\/html\/population\/_product-004.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/population\/_product-004.html",
+		"oAP": "\/html\/population\/_product-004.html",
 		"oF": 0
 		},
 	"\/src\/html\/population\/_product-005.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/population\/_product-005.html",
+		"oAP": "\/html\/population\/_product-005.html",
 		"oF": 0
 		},
 	"\/src\/html\/population\/_product-006.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/population\/_product-006.html",
+		"oAP": "\/html\/population\/_product-006.html",
 		"oF": 0
 		},
 	"\/src\/html\/population\/_product-007.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/population\/_product-007.html",
+		"oAP": "\/html\/population\/_product-007.html",
 		"oF": 0
 		},
 	"\/src\/html\/population\/_products.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/dist\/html\/population\/_products.html",
+		"oAP": "\/html\/population\/_products.html",
 		"oF": 0
 		},
 	"\/src\/js\/app.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/dist\/js\/build.js",
+		"oAP": "\/js\/build.js",
 		"oF": 2,
 		"sC": 3,
 		"tS": 1
@@ -1180,7 +1258,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/dist\/js\/component-min.js",
+		"oAP": "\/js\/component-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -1188,7 +1266,7 @@
 	"\/src\/js\/data2.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/dist\/js\/data2-min.json",
+		"oAP": "\/js\/data2-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -1197,7 +1275,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/dist\/js\/templates-min.js",
+		"oAP": "\/js\/templates-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -1210,7 +1288,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_Framework\/_Functions.css",
+		"oAP": "\/scss\/_Framework\/_Functions.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1223,7 +1301,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_Framework\/_Head.css",
+		"oAP": "\/scss\/_Framework\/_Head.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1236,7 +1314,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_Framework\/_Index.css",
+		"oAP": "\/scss\/_Framework\/_Index.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1249,7 +1327,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_Framework\/_MediaQueries.css",
+		"oAP": "\/scss\/_Framework\/_MediaQueries.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1262,7 +1340,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_Framework\/_Mixins.css",
+		"oAP": "\/scss\/_Framework\/_Mixins.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1275,7 +1353,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_Framework\/_Normalize.css",
+		"oAP": "\/scss\/_Framework\/_Normalize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1288,7 +1366,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_Variables.css",
+		"oAP": "\/scss\/_Variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1301,7 +1379,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Alert.css",
+		"oAP": "\/scss\/Atoms\/_Alert.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1314,7 +1392,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Base.css",
+		"oAP": "\/scss\/Atoms\/_Base.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1327,7 +1405,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Button.css",
+		"oAP": "\/scss\/Atoms\/_Button.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1340,7 +1418,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Code.css",
+		"oAP": "\/scss\/Atoms\/_Code.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1353,7 +1431,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Form.css",
+		"oAP": "\/scss\/Atoms\/_Form.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1366,7 +1444,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Heading.css",
+		"oAP": "\/scss\/Atoms\/_Heading.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1379,7 +1457,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Input.css",
+		"oAP": "\/scss\/Atoms\/_Input.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1392,7 +1470,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Label.css",
+		"oAP": "\/scss\/Atoms\/_Label.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1405,7 +1483,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Link.css",
+		"oAP": "\/scss\/Atoms\/_Link.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1418,7 +1496,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_List.css",
+		"oAP": "\/scss\/Atoms\/_List.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1431,7 +1509,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Media.css",
+		"oAP": "\/scss\/Atoms\/_Media.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1444,7 +1522,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Quote.css",
+		"oAP": "\/scss\/Atoms\/_Quote.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1457,7 +1535,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Ruler.css",
+		"oAP": "\/scss\/Atoms\/_Ruler.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1470,7 +1548,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Table.css",
+		"oAP": "\/scss\/Atoms\/_Table.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1483,7 +1561,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Atoms\/_Typography.css",
+		"oAP": "\/scss\/Atoms\/_Typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1496,7 +1574,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/dist\/css\/Main.css",
+		"oAP": "\/css\/Main.css",
 		"oF": 2,
 		"oS": 2,
 		"uL": 1
@@ -1509,7 +1587,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_ButtonGroup.css",
+		"oAP": "\/scss\/Molecules\/_ButtonGroup.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1522,7 +1600,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_Flag.css",
+		"oAP": "\/scss\/Molecules\/_Flag.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1535,7 +1613,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_FlexibleEmbed.css",
+		"oAP": "\/scss\/Molecules\/_FlexibleEmbed.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1548,7 +1626,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_Form.css",
+		"oAP": "\/scss\/Molecules\/_Form.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1561,7 +1639,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_Grid.css",
+		"oAP": "\/scss\/Molecules\/_Grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1574,7 +1652,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_Media.css",
+		"oAP": "\/scss\/Molecules\/_Media.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1587,7 +1665,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_Navigation.css",
+		"oAP": "\/scss\/Molecules\/_Navigation.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1600,7 +1678,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_Spinner.css",
+		"oAP": "\/scss\/Molecules\/_Spinner.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1613,7 +1691,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Molecules\/_Table.css",
+		"oAP": "\/scss\/Molecules\/_Table.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1626,7 +1704,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Organisms\/_SiteFooter.css",
+		"oAP": "\/scss\/Organisms\/_SiteFooter.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1639,7 +1717,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Organisms\/_SiteHeader.css",
+		"oAP": "\/scss\/Organisms\/_SiteHeader.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1652,7 +1730,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Templates\/_Print.css",
+		"oAP": "\/scss\/Templates\/_Print.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1665,7 +1743,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Utilities\/_Animations.css",
+		"oAP": "\/scss\/Utilities\/_Animations.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1678,7 +1756,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Utilities\/_Brand.css",
+		"oAP": "\/scss\/Utilities\/_Brand.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1691,7 +1769,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Utilities\/_Display.css",
+		"oAP": "\/scss\/Utilities\/_Display.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1704,7 +1782,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Utilities\/_Layout.css",
+		"oAP": "\/scss\/Utilities\/_Layout.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1717,7 +1795,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Utilities\/_Spacings.css",
+		"oAP": "\/scss\/Utilities\/_Spacings.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1730,7 +1808,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Utilities\/_Typography.css",
+		"oAP": "\/scss\/Utilities\/_Typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1743,7 +1821,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/Utilities\/_Widths.css",
+		"oAP": "\/scss\/Utilities\/_Widths.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2022,7 +2100,7 @@
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"buildFolderActive": 1,
-	"buildFolderName": "dist",
+	"buildFolderName": "\/",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -3866,7 +3944,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": "\/dist"
+	"websiteRelativeRoot": "\/\/"
 	},
 "settingsFileVersion": "3"
 }
